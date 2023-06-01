@@ -4,3 +4,12 @@
 
 Une branche permet de paralléliser les développements. 
 Ceci permet d'éviter trop de conflit lors de l'intégration des sources.
+
+```plantuml
+@startuml
+Title test
+
+Poste -> GitHub
+
+@enduml
+```
